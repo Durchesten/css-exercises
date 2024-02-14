@@ -1,0 +1,19 @@
+.normal {
+    background-color: pink;
+    font-family: verdana;
+}
+#number2 {
+    color: #0000ff;
+    font-size: 36px;
+}
+.cooler {
+    background-color: pink;
+    font-family: verdana;
+    font-size: 24px;
+    font-weight: bold;
+}
+#number4 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
